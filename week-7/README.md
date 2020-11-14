@@ -1,8 +1,8 @@
 # Generative Models
 
 - [Lecture](https://docs.google.com/presentation/d/1Riy7slDA3_mo5FANyi9mRIUQQufGU4K_mKJzJgMCPZc/edit?usp=sharing)
-- [Video(rus)]()
-- [Video seminar(rus)]()
+- [Video(rus)](https://www.youtube.com/watch?v=AXuozJmu28E)
+- [Video seminar(rus)](https://www.youtube.com/watch?v=bVFlTzaG7GI)
 
 ## Practice
 
